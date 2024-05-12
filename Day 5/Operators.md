@@ -4,15 +4,16 @@ Python has different types of operators for different operations. To create a ca
 
 # Arithmetic operatorr
 <br>
-| Operator | Operator Name   | Example |
-|----------|-----------------|---------|
+**Operator** **Operator Name**   *Example**
+<br>
+```
 | +        | Addition        | 15 + 7  |
 | -        | Subtraction     | 15 - 7  |
 | *        | Multiplication  | 15 * 7  |
 | **       | Exponential     | 15 ** 7 |
 | %        | Modulus         | 15 % 7  |
 | //       | Floor Division  | 15 // 7 |
-
+```
 
 # Exercise 1 - Create a Calculator
 <br>
