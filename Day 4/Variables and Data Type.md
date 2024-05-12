@@ -1,4 +1,4 @@
-# Day 6 - Variables and Data Types
+# Day 4 - Variables and Data Types
 <br>
 
 # What is variable?
