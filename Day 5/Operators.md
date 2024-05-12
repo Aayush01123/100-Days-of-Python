@@ -4,10 +4,10 @@ Python has different types of operators for different operations. To create a ca
 
 # Arithmetic operatorr
 <br>
-**Operator** **Operator Name**   *Example**
-<br>
 
 ```
+| Operator | Operator Name   | Example |
+|----------|-----------------|---------|
 | +        | Addition        | 15 + 7  |
 | -        | Subtraction     | 15 - 7  |
 | *        | Multiplication  | 15 * 7  |
