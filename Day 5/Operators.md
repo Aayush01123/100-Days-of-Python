@@ -6,6 +6,7 @@ Python has different types of operators for different operations. To create a ca
 <br>
 **Operator** **Operator Name**   *Example**
 <br>
+
 ```
 | +        | Addition        | 15 + 7  |
 | -        | Subtraction     | 15 - 7  |
