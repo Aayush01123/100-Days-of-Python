@@ -17,7 +17,7 @@ Python supports a wide variety of functions or methods like: int(), float(), str
 <br>
 The conversion of one data type into another data type, done via developer or programmer's intervention or manually as per the requirement, is known as explicit type conversion.
  
- It can be achieved with the help of Python's built-in type conversion functions such as int(), float(), hex(), oct(), str(), etc
+It can be achieved with the help of Python's built-in type conversion functions such as int(), float(), hex(), oct(), str(), etc
 
 # Example of explicit typecasting
 
