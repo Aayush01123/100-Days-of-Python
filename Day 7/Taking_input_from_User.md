@@ -14,10 +14,12 @@ But input functions return the value as string. Hence we have to typecast them w
 ## Example
 
 <br>
+
 ```
 variable=int(input())
 variable=float(input())
 ```
+
 We can also display a text using input function. This will make input()function take user input and display a message as well.
 
 ## Example:
