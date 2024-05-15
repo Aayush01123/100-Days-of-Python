@@ -18,12 +18,14 @@ print("Mango is a", len1, "Letter word.")
 
 # Output:
 <br>
+
 ```
 Mango is a 5 letter word.
 ```
 
 # Example
 <br>
+
 ```
 # Define a sample string
 my_string = "Hello, World!"
@@ -49,12 +51,13 @@ print(my_string[::2])   # Output: Hlo ol! (every second character)
 A string is essentially a sequence of characters also called a array. Thus we can access the elements of this array.
 
 # Example:
-
+```
 pie = "ApplePie"
 print(pie[:5])
 print(pie[6]) #returns chracter at specified index
-
+```
 # Output:
-
+```
 Apple
 i
+```
