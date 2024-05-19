@@ -11,14 +11,15 @@ The upper() method converts a strings to upper case.
 # Example:
 
 <br>
+
 ```
 str1 = "abcde"
 print(str1.upper())
 ```
 
 # Output:
-
 <br>
+
 ```
 ABCDE
 ```
@@ -37,6 +38,7 @@ print(str1.lower())
 
 # Output
 <br>
+
 ```
 abcde
 ```
