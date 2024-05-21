@@ -16,6 +16,7 @@ The case clause consists of a pattern to be matched to the variable, a condition
 # Syntax:
 
 <br>
+
 ```
 match variable_name:
         case 'pattern1':
